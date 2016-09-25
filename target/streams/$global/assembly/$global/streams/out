@@ -1,7 +1,7 @@
 [0m[[0minfo[0m] [0mIncluding: unused-1.0.0.jar[0m
-[0m[[0minfo[0m] [0mIncluding: commons-cli-1.2.jar[0m
-[0m[[0minfo[0m] [0mIncluding: spark-streaming-twitter_2.10-1.4.0.jar[0m
 [0m[[0minfo[0m] [0mIncluding: twitter4j-stream-3.0.3.jar[0m
+[0m[[0minfo[0m] [0mIncluding: spark-streaming-twitter_2.10-1.4.0.jar[0m
+[0m[[0minfo[0m] [0mIncluding: commons-cli-1.2.jar[0m
 [0m[[0minfo[0m] [0mIncluding: gson-2.3.jar[0m
 [0m[[0minfo[0m] [0mIncluding: twitter4j-core-3.0.3.jar[0m
 [0m[[0minfo[0m] [0mIncluding: scala-library-2.10.4.jar[0m
@@ -16,9 +16,37 @@
 [0m[[33mwarn[0m] [0mMerging 'org/apache/spark/unused/UnusedStubClass.class' with strategy 'first'[0m
 [0m[[33mwarn[0m] [0mStrategy 'discard' was applied to 2 files[0m
 [0m[[33mwarn[0m] [0mStrategy 'first' was applied to 4 files[0m
-[0m[[0minfo[0m] [0mSHA-1: a2fac3b732c7e36cee228c9cde53a6820c64d30a[0m
+[0m[[0minfo[0m] [0mSHA-1: abd181e866632ceb957fe210cba6ab1cf8a18959[0m
 [0m[[0minfo[0m] [0mPackaging /Users/zhangtian/Dropbox/2016 Job/Spark Tutorial/twitter_classifier/scala/target/scala-2.10/spark-twitter-lang-classifier-assembly-1.0.jar ...[0m
 [0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	Collect$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/zhangtian/Dropbox/2016 Job/Spark Tutorial/twitter_classifier/scala/target/streams/$global/assemblyOption/$global/streams/assembly/5d8ed728b4ae00d665e9a68e5de42b97d82117fc_dir/Collect$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	Collect$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/zhangtian/Dropbox/2016 Job/Spark Tutorial/twitter_classifier/scala/target/streams/$global/assemblyOption/$global/streams/assembly/5d8ed728b4ae00d665e9a68e5de42b97d82117fc_dir/Collect$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	Collect$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/zhangtian/Dropbox/2016 Job/Spark Tutorial/twitter_classifier/scala/target/streams/$global/assemblyOption/$global/streams/assembly/5d8ed728b4ae00d665e9a68e5de42b97d82117fc_dir/Collect$.class[0m
+[0m[[0mdebug[0m] [0m	Collect.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/zhangtian/Dropbox/2016 Job/Spark Tutorial/twitter_classifier/scala/target/streams/$global/assemblyOption/$global/streams/assembly/5d8ed728b4ae00d665e9a68e5de42b97d82117fc_dir/Collect.class[0m
+[0m[[0mdebug[0m] [0m	ExamineAndTrain$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/zhangtian/Dropbox/2016 Job/Spark Tutorial/twitter_classifier/scala/target/streams/$global/assemblyOption/$global/streams/assembly/5d8ed728b4ae00d665e9a68e5de42b97d82117fc_dir/ExamineAndTrain$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	ExamineAndTrain$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/zhangtian/Dropbox/2016 Job/Spark Tutorial/twitter_classifier/scala/target/streams/$global/assemblyOption/$global/streams/assembly/5d8ed728b4ae00d665e9a68e5de42b97d82117fc_dir/ExamineAndTrain$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	ExamineAndTrain$$anonfun$main$1$$anonfun$apply$mcVI$sp$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/zhangtian/Dropbox/2016 Job/Spark Tutorial/twitter_classifier/scala/target/streams/$global/assemblyOption/$global/streams/assembly/5d8ed728b4ae00d665e9a68e5de42b97d82117fc_dir/ExamineAndTrain$$anonfun$main$1$$anonfun$apply$mcVI$sp$1.class[0m
+[0m[[0mdebug[0m] [0m	ExamineAndTrain$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/zhangtian/Dropbox/2016 Job/Spark Tutorial/twitter_classifier/scala/target/streams/$global/assemblyOption/$global/streams/assembly/5d8ed728b4ae00d665e9a68e5de42b97d82117fc_dir/ExamineAndTrain$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	ExamineAndTrain$$anonfun$main$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/zhangtian/Dropbox/2016 Job/Spark Tutorial/twitter_classifier/scala/target/streams/$global/assemblyOption/$global/streams/assembly/5d8ed728b4ae00d665e9a68e5de42b97d82117fc_dir/ExamineAndTrain$$anonfun$main$2.class[0m
+[0m[[0mdebug[0m] [0m	ExamineAndTrain$$anonfun$main$3.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/zhangtian/Dropbox/2016 Job/Spark Tutorial/twitter_classifier/scala/target/streams/$global/assemblyOption/$global/streams/assembly/5d8ed728b4ae00d665e9a68e5de42b97d82117fc_dir/ExamineAndTrain$$anonfun$main$3.class[0m
+[0m[[0mdebug[0m] [0m	ExamineAndTrain$$anonfun$main$4.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/zhangtian/Dropbox/2016 Job/Spark Tutorial/twitter_classifier/scala/target/streams/$global/assemblyOption/$global/streams/assembly/5d8ed728b4ae00d665e9a68e5de42b97d82117fc_dir/ExamineAndTrain$$anonfun$main$4.class[0m
+[0m[[0mdebug[0m] [0m	ExamineAndTrain$$anonfun$main$5.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/zhangtian/Dropbox/2016 Job/Spark Tutorial/twitter_classifier/scala/target/streams/$global/assemblyOption/$global/streams/assembly/5d8ed728b4ae00d665e9a68e5de42b97d82117fc_dir/ExamineAndTrain$$anonfun$main$5.class[0m
+[0m[[0mdebug[0m] [0m	ExamineAndTrain$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/zhangtian/Dropbox/2016 Job/Spark Tutorial/twitter_classifier/scala/target/streams/$global/assemblyOption/$global/streams/assembly/5d8ed728b4ae00d665e9a68e5de42b97d82117fc_dir/ExamineAndTrain$.class[0m
+[0m[[0mdebug[0m] [0m	ExamineAndTrain.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/zhangtian/Dropbox/2016 Job/Spark Tutorial/twitter_classifier/scala/target/streams/$global/assemblyOption/$global/streams/assembly/5d8ed728b4ae00d665e9a68e5de42b97d82117fc_dir/ExamineAndTrain.class[0m
 [0m[[0mdebug[0m] [0m	META-INF/DEPENDENCIES[0m
 [0m[[0mdebug[0m] [0m	  /Users/zhangtian/Dropbox/2016 Job/Spark Tutorial/twitter_classifier/scala/target/streams/$global/assemblyOption/$global/streams/assembly/9e5a505b7cbde2491513d3465d4536527fe7b0e4_ac10608abb913128e0b35f5592b2046b67df70d1/META-INF/DEPENDENCIES[0m
 [0m[[0mdebug[0m] [0m	META-INF/LICENSE[0m
@@ -49,48 +77,20 @@
 [0m[[0mdebug[0m] [0m	  /Users/zhangtian/Dropbox/2016 Job/Spark Tutorial/twitter_classifier/scala/target/streams/$global/assemblyOption/$global/streams/assembly/c5f22456cf0e6ca9174a6aa5c8bd621bf3711751_113836894f36f04b540fc2934ea72904531a6806/META-INF/maven/org.twitter4j/twitter4j-stream/pom.properties[0m
 [0m[[0mdebug[0m] [0m	META-INF/maven/org.twitter4j/twitter4j-stream/pom.xml[0m
 [0m[[0mdebug[0m] [0m	  /Users/zhangtian/Dropbox/2016 Job/Spark Tutorial/twitter_classifier/scala/target/streams/$global/assemblyOption/$global/streams/assembly/c5f22456cf0e6ca9174a6aa5c8bd621bf3711751_113836894f36f04b540fc2934ea72904531a6806/META-INF/maven/org.twitter4j/twitter4j-stream/pom.xml[0m
-[0m[[0mdebug[0m] [0m	com/databricks/apps/twitter_classifier/Collect$$anonfun$1.class[0m
-[0m[[0mdebug[0m] [0m	  /Users/zhangtian/Dropbox/2016 Job/Spark Tutorial/twitter_classifier/scala/target/streams/$global/assemblyOption/$global/streams/assembly/5d8ed728b4ae00d665e9a68e5de42b97d82117fc_dir/com/databricks/apps/twitter_classifier/Collect$$anonfun$1.class[0m
-[0m[[0mdebug[0m] [0m	com/databricks/apps/twitter_classifier/Collect$$anonfun$main$1.class[0m
-[0m[[0mdebug[0m] [0m	  /Users/zhangtian/Dropbox/2016 Job/Spark Tutorial/twitter_classifier/scala/target/streams/$global/assemblyOption/$global/streams/assembly/5d8ed728b4ae00d665e9a68e5de42b97d82117fc_dir/com/databricks/apps/twitter_classifier/Collect$$anonfun$main$1.class[0m
-[0m[[0mdebug[0m] [0m	com/databricks/apps/twitter_classifier/Collect$.class[0m
-[0m[[0mdebug[0m] [0m	  /Users/zhangtian/Dropbox/2016 Job/Spark Tutorial/twitter_classifier/scala/target/streams/$global/assemblyOption/$global/streams/assembly/5d8ed728b4ae00d665e9a68e5de42b97d82117fc_dir/com/databricks/apps/twitter_classifier/Collect$.class[0m
-[0m[[0mdebug[0m] [0m	com/databricks/apps/twitter_classifier/Collect.class[0m
-[0m[[0mdebug[0m] [0m	  /Users/zhangtian/Dropbox/2016 Job/Spark Tutorial/twitter_classifier/scala/target/streams/$global/assemblyOption/$global/streams/assembly/5d8ed728b4ae00d665e9a68e5de42b97d82117fc_dir/com/databricks/apps/twitter_classifier/Collect.class[0m
-[0m[[0mdebug[0m] [0m	com/databricks/apps/twitter_classifier/ExamineAndTrain$$anonfun$1.class[0m
-[0m[[0mdebug[0m] [0m	  /Users/zhangtian/Dropbox/2016 Job/Spark Tutorial/twitter_classifier/scala/target/streams/$global/assemblyOption/$global/streams/assembly/5d8ed728b4ae00d665e9a68e5de42b97d82117fc_dir/com/databricks/apps/twitter_classifier/ExamineAndTrain$$anonfun$1.class[0m
-[0m[[0mdebug[0m] [0m	com/databricks/apps/twitter_classifier/ExamineAndTrain$$anonfun$2.class[0m
-[0m[[0mdebug[0m] [0m	  /Users/zhangtian/Dropbox/2016 Job/Spark Tutorial/twitter_classifier/scala/target/streams/$global/assemblyOption/$global/streams/assembly/5d8ed728b4ae00d665e9a68e5de42b97d82117fc_dir/com/databricks/apps/twitter_classifier/ExamineAndTrain$$anonfun$2.class[0m
-[0m[[0mdebug[0m] [0m	com/databricks/apps/twitter_classifier/ExamineAndTrain$$anonfun$main$1$$anonfun$apply$mcVI$sp$1.class[0m
-[0m[[0mdebug[0m] [0m	  /Users/zhangtian/Dropbox/2016 Job/Spark Tutorial/twitter_classifier/scala/target/streams/$global/assemblyOption/$global/streams/assembly/5d8ed728b4ae00d665e9a68e5de42b97d82117fc_dir/com/databricks/apps/twitter_classifier/ExamineAndTrain$$anonfun$main$1$$anonfun$apply$mcVI$sp$1.class[0m
-[0m[[0mdebug[0m] [0m	com/databricks/apps/twitter_classifier/ExamineAndTrain$$anonfun$main$1.class[0m
-[0m[[0mdebug[0m] [0m	  /Users/zhangtian/Dropbox/2016 Job/Spark Tutorial/twitter_classifier/scala/target/streams/$global/assemblyOption/$global/streams/assembly/5d8ed728b4ae00d665e9a68e5de42b97d82117fc_dir/com/databricks/apps/twitter_classifier/ExamineAndTrain$$anonfun$main$1.class[0m
-[0m[[0mdebug[0m] [0m	com/databricks/apps/twitter_classifier/ExamineAndTrain$$anonfun$main$2.class[0m
-[0m[[0mdebug[0m] [0m	  /Users/zhangtian/Dropbox/2016 Job/Spark Tutorial/twitter_classifier/scala/target/streams/$global/assemblyOption/$global/streams/assembly/5d8ed728b4ae00d665e9a68e5de42b97d82117fc_dir/com/databricks/apps/twitter_classifier/ExamineAndTrain$$anonfun$main$2.class[0m
-[0m[[0mdebug[0m] [0m	com/databricks/apps/twitter_classifier/ExamineAndTrain$$anonfun$main$3.class[0m
-[0m[[0mdebug[0m] [0m	  /Users/zhangtian/Dropbox/2016 Job/Spark Tutorial/twitter_classifier/scala/target/streams/$global/assemblyOption/$global/streams/assembly/5d8ed728b4ae00d665e9a68e5de42b97d82117fc_dir/com/databricks/apps/twitter_classifier/ExamineAndTrain$$anonfun$main$3.class[0m
-[0m[[0mdebug[0m] [0m	com/databricks/apps/twitter_classifier/ExamineAndTrain$$anonfun$main$4.class[0m
-[0m[[0mdebug[0m] [0m	  /Users/zhangtian/Dropbox/2016 Job/Spark Tutorial/twitter_classifier/scala/target/streams/$global/assemblyOption/$global/streams/assembly/5d8ed728b4ae00d665e9a68e5de42b97d82117fc_dir/com/databricks/apps/twitter_classifier/ExamineAndTrain$$anonfun$main$4.class[0m
-[0m[[0mdebug[0m] [0m	com/databricks/apps/twitter_classifier/ExamineAndTrain$$anonfun$main$5.class[0m
-[0m[[0mdebug[0m] [0m	  /Users/zhangtian/Dropbox/2016 Job/Spark Tutorial/twitter_classifier/scala/target/streams/$global/assemblyOption/$global/streams/assembly/5d8ed728b4ae00d665e9a68e5de42b97d82117fc_dir/com/databricks/apps/twitter_classifier/ExamineAndTrain$$anonfun$main$5.class[0m
-[0m[[0mdebug[0m] [0m	com/databricks/apps/twitter_classifier/ExamineAndTrain$.class[0m
-[0m[[0mdebug[0m] [0m	  /Users/zhangtian/Dropbox/2016 Job/Spark Tutorial/twitter_classifier/scala/target/streams/$global/assemblyOption/$global/streams/assembly/5d8ed728b4ae00d665e9a68e5de42b97d82117fc_dir/com/databricks/apps/twitter_classifier/ExamineAndTrain$.class[0m
-[0m[[0mdebug[0m] [0m	com/databricks/apps/twitter_classifier/ExamineAndTrain.class[0m
-[0m[[0mdebug[0m] [0m	  /Users/zhangtian/Dropbox/2016 Job/Spark Tutorial/twitter_classifier/scala/target/streams/$global/assemblyOption/$global/streams/assembly/5d8ed728b4ae00d665e9a68e5de42b97d82117fc_dir/com/databricks/apps/twitter_classifier/ExamineAndTrain.class[0m
-[0m[[0mdebug[0m] [0m	com/databricks/apps/twitter_classifier/Predict$$anonfun$1.class[0m
-[0m[[0mdebug[0m] [0m	  /Users/zhangtian/Dropbox/2016 Job/Spark Tutorial/twitter_classifier/scala/target/streams/$global/assemblyOption/$global/streams/assembly/5d8ed728b4ae00d665e9a68e5de42b97d82117fc_dir/com/databricks/apps/twitter_classifier/Predict$$anonfun$1.class[0m
-[0m[[0mdebug[0m] [0m	com/databricks/apps/twitter_classifier/Predict$$anonfun$2.class[0m
-[0m[[0mdebug[0m] [0m	  /Users/zhangtian/Dropbox/2016 Job/Spark Tutorial/twitter_classifier/scala/target/streams/$global/assemblyOption/$global/streams/assembly/5d8ed728b4ae00d665e9a68e5de42b97d82117fc_dir/com/databricks/apps/twitter_classifier/Predict$$anonfun$2.class[0m
-[0m[[0mdebug[0m] [0m	com/databricks/apps/twitter_classifier/Predict$.class[0m
-[0m[[0mdebug[0m] [0m	  /Users/zhangtian/Dropbox/2016 Job/Spark Tutorial/twitter_classifier/scala/target/streams/$global/assemblyOption/$global/streams/assembly/5d8ed728b4ae00d665e9a68e5de42b97d82117fc_dir/com/databricks/apps/twitter_classifier/Predict$.class[0m
-[0m[[0mdebug[0m] [0m	com/databricks/apps/twitter_classifier/Predict.class[0m
-[0m[[0mdebug[0m] [0m	  /Users/zhangtian/Dropbox/2016 Job/Spark Tutorial/twitter_classifier/scala/target/streams/$global/assemblyOption/$global/streams/assembly/5d8ed728b4ae00d665e9a68e5de42b97d82117fc_dir/com/databricks/apps/twitter_classifier/Predict.class[0m
-[0m[[0mdebug[0m] [0m	com/databricks/apps/twitter_classifier/Utils$.class[0m
-[0m[[0mdebug[0m] [0m	  /Users/zhangtian/Dropbox/2016 Job/Spark Tutorial/twitter_classifier/scala/target/streams/$global/assemblyOption/$global/streams/assembly/5d8ed728b4ae00d665e9a68e5de42b97d82117fc_dir/com/databricks/apps/twitter_classifier/Utils$.class[0m
-[0m[[0mdebug[0m] [0m	com/databricks/apps/twitter_classifier/Utils$IntParam$.class[0m
-[0m[[0mdebug[0m] [0m	  /Users/zhangtian/Dropbox/2016 Job/Spark Tutorial/twitter_classifier/scala/target/streams/$global/assemblyOption/$global/streams/assembly/5d8ed728b4ae00d665e9a68e5de42b97d82117fc_dir/com/databricks/apps/twitter_classifier/Utils$IntParam$.class[0m
-[0m[[0mdebug[0m] [0m	com/databricks/apps/twitter_classifier/Utils.class[0m
-[0m[[0mdebug[0m] [0m	  /Users/zhangtian/Dropbox/2016 Job/Spark Tutorial/twitter_classifier/scala/target/streams/$global/assemblyOption/$global/streams/assembly/5d8ed728b4ae00d665e9a68e5de42b97d82117fc_dir/com/databricks/apps/twitter_classifier/Utils.class[0m
+[0m[[0mdebug[0m] [0m	Predict$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/zhangtian/Dropbox/2016 Job/Spark Tutorial/twitter_classifier/scala/target/streams/$global/assemblyOption/$global/streams/assembly/5d8ed728b4ae00d665e9a68e5de42b97d82117fc_dir/Predict$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	Predict$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/zhangtian/Dropbox/2016 Job/Spark Tutorial/twitter_classifier/scala/target/streams/$global/assemblyOption/$global/streams/assembly/5d8ed728b4ae00d665e9a68e5de42b97d82117fc_dir/Predict$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	Predict$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/zhangtian/Dropbox/2016 Job/Spark Tutorial/twitter_classifier/scala/target/streams/$global/assemblyOption/$global/streams/assembly/5d8ed728b4ae00d665e9a68e5de42b97d82117fc_dir/Predict$.class[0m
+[0m[[0mdebug[0m] [0m	Predict.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/zhangtian/Dropbox/2016 Job/Spark Tutorial/twitter_classifier/scala/target/streams/$global/assemblyOption/$global/streams/assembly/5d8ed728b4ae00d665e9a68e5de42b97d82117fc_dir/Predict.class[0m
+[0m[[0mdebug[0m] [0m	Utils$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/zhangtian/Dropbox/2016 Job/Spark Tutorial/twitter_classifier/scala/target/streams/$global/assemblyOption/$global/streams/assembly/5d8ed728b4ae00d665e9a68e5de42b97d82117fc_dir/Utils$.class[0m
+[0m[[0mdebug[0m] [0m	Utils$IntParam$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/zhangtian/Dropbox/2016 Job/Spark Tutorial/twitter_classifier/scala/target/streams/$global/assemblyOption/$global/streams/assembly/5d8ed728b4ae00d665e9a68e5de42b97d82117fc_dir/Utils$IntParam$.class[0m
+[0m[[0mdebug[0m] [0m	Utils.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/zhangtian/Dropbox/2016 Job/Spark Tutorial/twitter_classifier/scala/target/streams/$global/assemblyOption/$global/streams/assembly/5d8ed728b4ae00d665e9a68e5de42b97d82117fc_dir/Utils.class[0m
 [0m[[0mdebug[0m] [0m	com/google/gson/DefaultDateTypeAdapter.class[0m
 [0m[[0mdebug[0m] [0m	  /Users/zhangtian/Dropbox/2016 Job/Spark Tutorial/twitter_classifier/scala/target/streams/$global/assemblyOption/$global/streams/assembly/7e5646d995a9563c64d2391a324414d00a388765_5fc52c41ef0239d1093a1eb7c3697036183677ce/com/google/gson/DefaultDateTypeAdapter.class[0m
 [0m[[0mdebug[0m] [0m	com/google/gson/ExclusionStrategy.class[0m
