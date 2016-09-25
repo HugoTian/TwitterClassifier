@@ -13,3 +13,5 @@ Command : spark-submit --class  SCALA-OBJECT --master $YOU_SPARK_MASTER JARFILE 
 Example : `$ spark-submit --class Predict  --master local[4]  target/scala-2.10/spark-twitter-lang-classifier-assembly-1.0.jar ./model 7 `
 
 The default setting is to use Spark 1.4.  You should able to run this coding with other versions of Spark 1.X and higher by changing the Spark version in the build file (assuming no API changes).
+
+Reference : [Here](https://databricks.gitbooks.io/databricks-spark-reference-applications/content/twitter_classifier/index.html)
